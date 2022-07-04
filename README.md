@@ -16,6 +16,10 @@ Here are some ideas to get you started:
 -->
 I'm currently on the first year of high school integrated with a IT techinician corse. In this first year, I'm learning C, html, css, js, exel, and much more! You can see some of it in this Profile 🙃.
 
+#
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=edu15076&theme=merko)](https://github.com/edu15076/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edu15076&theme=merko)](https://github.com/edu15076/github-readme-stats)
+
+#
+![Snake animation](https://github.com/edu15076/edu15076/blob/output/github-contribution-grid-snake.svg)
