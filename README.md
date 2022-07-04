@@ -18,4 +18,4 @@ I'm currently on the first year of high school integrated with a IT techinician 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=edu15076&theme=merko)](https://github.com/edu15076/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edu15076)](https://github.com/edu15076/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edu15076&theme=merko)](https://github.com/edu15076/github-readme-stats)
