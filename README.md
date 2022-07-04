@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 😎🦆
 
 <!--
 **edu15076/edu15076** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm currently on the first year of high school integrated with a IT techinician corse. In this first year, I'm learning C, html, css, js, exel, and much more! You can see some of it in this Profile 🙃.
