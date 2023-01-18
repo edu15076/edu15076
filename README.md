@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm currently on the first year of high school integrated with a IT techinician corse. In this first year, I'm learning c, html, css, js, exel, and much more! You can see some of it in this Profile 🙃.
+I'm currently on the second year of high school integrated with a IT techinician corse. I'm learning C, C++, java, python, html, css, js, dJango, exel, and much more! You can see some of it in this Profile 🙃.
 
 #
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=edu15076&theme=merko)](https://github.com/edu15076/github-readme-stats)
