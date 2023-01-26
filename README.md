@@ -1,19 +1,5 @@
 ### Hello there 😎🦆
 
-<!--
-**edu15076/edu15076** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 I'm currently on the second year of high school integrated with a IT techinician corse. I'm learning C, C++, java, python, html, css, js, dJango, exel, and much more! You can see some of it in this Profile 🙃.
 
 #
@@ -22,5 +8,4 @@ I'm currently on the second year of high school integrated with a IT techinician
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edu15076&theme=merko)](https://github.com/edu15076/github-readme-stats)
 
 #
-[![GitHub Snake Light](github-snake.svg#gh-light-mode-only)]
-[![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)]
+![Snake animation](https://github.com/edu15076/edu15076/blob/output/github-contribution-grid-snake.svg)  
