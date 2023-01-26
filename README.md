@@ -22,5 +22,5 @@ I'm currently on the second year of high school integrated with a IT techinician
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edu15076&theme=merko)](https://github.com/edu15076/github-readme-stats)
 
 #
-![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
-![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
+[![GitHub Snake Light](github-snake.svg#gh-light-mode-only)]
+[![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)]
