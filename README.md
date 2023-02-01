@@ -1,6 +1,18 @@
-### Hello there 😎🦆
+### Hello 😎🦆
 
-I'm currently on the second year of high school integrated with a IT techinician corse. I'm learning C, C++, java, python, html, css, js, dJango, exel, and much more! You can see some of it in this Profile 🙃.
+I am Eduardo, a high school integrated with an IT technician course at Cefet-Mg.
+
+I am very found of studding. Especially pure mathematics, physics and computing.
+
+I have previous experience with C, C++, Python, JavaScript and Jupyter Notebooks. Besides from having good experience with Html and Css.
+
+From Python I am very familiar with Django and Matplotlib APIs.
+
+From JavaScript I know jQuery, Ajax and Canva APIs.
+
+I developed a handful of web static and not static applications and some programing projects in many different programming languages. Some of these projects can be found here.
+
+I also know how to work with Microsoft Office, LibreOffice, Git, PowerShell and Bash.
 
 #
 <div align="center" style="display: inline">
